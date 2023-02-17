@@ -23,7 +23,7 @@ This read me has two goals:
   - Create repo with read me
   - Upload resume.md
   - Run jekyll new /home (required to create a sub directory )
-  - Update config.yml to have base URL of /home
+  - Drag all of the contents out of the home folder and into the root folder (this is annoying but the command forces a path)
   - remove the about.md file (since this will be a single page )
   - In index.markdown, add your resume content under the "---"
   - update the config.yml to include the details you want - Site title - Github name - etc.
