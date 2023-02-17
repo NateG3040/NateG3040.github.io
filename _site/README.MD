@@ -22,11 +22,7 @@ This read me has two goals:
   -Steps to create repo:
   - Create repo with read me
   - Upload resume.md
-  - Run jekyll new /home (required to create a sub directory )
-  - Update config.yml to have base URL of /home
-  - remove the about.md file (since this will be a single page )
-  - In index.markdown, add your resume content under the "---"
-  - update the config.yml to include the details you want - Site title - Github name - etc.
+  - Run jekyll new /src
 
 Use headings and numbered lists
 Remember to use each step to explain
