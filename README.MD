@@ -22,7 +22,8 @@ This read me has two goals:
   -Steps to create repo:
   - Create repo with read me
   - Upload resume.md
-  - Run jekyll new /home (required to create a sub directory )
+  - Set github pages to host from docs folder
+  - Run jekyll new /docs (required to create a sub directory )
   - Drag all of the contents out of the home folder and into the root folder (this is annoying but the command forces a path)
   - remove the about.md file (since this will be a single page )
   - In index.markdown, add your resume content under the "---"
@@ -43,3 +44,7 @@ More Resources - include:
 2. a link to Etter's book
 3. at least one other resource
 4. Authors a
+
+FAQ
+
+- my page name is showing up on home page
