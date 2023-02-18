@@ -84,7 +84,7 @@ github_username:
 2. Click the + button beside changes to stage all of your changes
 3. Write a descriptive commit message in the "message" input
 4. Click the commit button
-5. In the bottom left of VSCode, click the push/pull changes button
+5. Click the new "Sync Changes" button that replaces the commit button
 6. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
 
 - How do I create the repo ?
