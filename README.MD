@@ -1,8 +1,4 @@
-# 3040-A1
-
-Template:
-
-# Title
+# How to Host a Markdown Resume with Github Pages and Jekyll
 
 ## Purpose:
 
@@ -88,6 +84,13 @@ github_username:
 6. When prompted with "THis will push/pull commits" to your main branch, select "ok"
 7. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
 
+## FAQ
+
+- my page name is showing up on home page
+- I dont have permissions to clone repo/ push to repo
+
+## Notes (to remove)
+
 - How do I create the repo ?
   -Steps to create repo:
   - Create repo with read me
@@ -114,8 +117,3 @@ More Resources - include:
 2. a link to Etter's book
 3. at least one other resource
 4. Authors a
-
-FAQ
-
-- my page name is showing up on home page
-- I dont have permissions to clone repo/ push to repo
