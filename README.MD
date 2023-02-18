@@ -85,7 +85,8 @@ github_username:
 3. Write a descriptive commit message in the "message" input
 4. Click the commit button
 5. Click the new "Sync Changes" button that replaces the commit button
-6. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
+6. When prompted with "THis will push/pull commits" to your main branch, select "ok"
+7. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
 
 - How do I create the repo ?
   -Steps to create repo:
