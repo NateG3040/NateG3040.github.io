@@ -17,6 +17,8 @@ This read me has two goals:
 
 ## Instructions, including animated gif
 
+![](public\resume.gif)
+
 ### Creating Your Repo
 
 1. In the upper-right corner of any page on github, use the + drop-down menu, and select _New Repository_
