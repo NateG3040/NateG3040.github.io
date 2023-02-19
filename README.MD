@@ -22,9 +22,13 @@ This read me has two goals:
 ### Creating Your Repo
 
 1. In the upper-right corner of any page on github, use the + drop-down menu, and select _New Repository_
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/Capture.PNG)
 2. Enter username.github.io as the repository name. Replace username with your GitHub username. For example, if your username is octocat, the repository name should be octocat.github.io
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/2.png)
 3. Check the "Initialize project with README checkbox.
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/4.png)
 4. Click Create Repository
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/5.png)
 
 ### Enabling Github Pages
 
