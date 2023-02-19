@@ -45,6 +45,7 @@ This read me has two goals:
 1. Open the command pallet with the key combination Ctrl + shift + p
 2. In the prompt, enter "gitcl", select the **Git: Clone** command, then select **clone from GitHub**
 3. Select the repo to clone
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/8.PNG)
 4. If you are asked to sign into GitHub, complete the signin process
 5. When prompted with a notification asking if you want to open the cloned repository, click **open**.
 
@@ -85,12 +86,14 @@ github_username:
 ### Push your changes to your repo
 
 1. In VSCode, select the source control tab on the left-hand menu
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/10.PNG)
 2. Click the + button beside changes to stage all of your changes
-3. Write a descriptive commit message in the "message" input
-4. Click the commit button
-5. Click the new "Sync Changes" button that replaces the commit button
-6. When prompted with "THis will push/pull commits" to your main branch, select "ok"
-7. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
+3. ![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/9.PNG)
+4. Write a descriptive commit message in the "message" input
+5. Click the commit button
+6. Click the new "Sync Changes" button that replaces the commit button
+7. When prompted with "THis will push/pull commits" to your main branch, select "ok"
+8. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
 
 ## FAQ
 
