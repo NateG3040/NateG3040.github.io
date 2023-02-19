@@ -87,7 +87,9 @@ github_username:
 
 1. In VSCode, select the source control tab on the left-hand menu
 2. Click the + button beside changes to stage all of your changes
+
 ![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/9.PNG)
+
 3. Write a descriptive commit message in the "message" input
 4. Click the commit button
 5. Click the new "Sync Changes" button that replaces the commit button
