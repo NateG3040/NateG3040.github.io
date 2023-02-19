@@ -97,7 +97,7 @@ github_username:
 ## FAQ
 
 - my page name is showing up on home page
-- I am receiving the error <Jekyll: Command not found> when running <Jekyll new /doc> 
+- I am receiving the error *"Jekyll: Command not found"* when running *"Jekyll new /doc"*
    - This is due to your terminal not knowing the jekyll command. If you have not already installed jekyll, please do so by following [this guide](https://jekyllrb.com/docs/installation/). 
    - If you have already installed Jekyll, try restarting your VSCode. 
 
