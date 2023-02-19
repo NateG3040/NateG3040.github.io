@@ -17,7 +17,7 @@ This read me has two goals:
 
 ## Instructions, including animated gif
 
-![](public\resume.gif)
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/resume.gif)
 
 ### Creating Your Repo
 
