@@ -12,8 +12,8 @@ This read me has two goals:
 
 - A resume created/formatted using [markdown](https://www.markdownguide.org/basic-syntax/).
 - VSCode
-- Ruby
-- A Device with your github credential set up on it
+- Install [Ruby](https://rubyinstaller.org/downloads/) using the latest Ruby + Devkit link. 
+- Install [Jekyll](https://jekyllrb.com/docs/installation/), following the guide for your specific OS.
 
 ## Instructions, including animated gif
 
@@ -97,7 +97,9 @@ github_username:
 ## FAQ
 
 - my page name is showing up on home page
-- I dont have permissions to clone repo/ push to repo
+- I am receiving the error <Jekyll: Command not found> when running <Jekyll new /doc> 
+   - This is due to your terminal not knowing the jekyll command. If you have not already installed jekyll, please do so by following [this guide](https://jekyllrb.com/docs/installation/). 
+   - If you have already installed Jekyll, try restarting your VSCode. 
 
 ## Notes (to remove)
 
