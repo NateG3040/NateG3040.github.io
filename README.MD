@@ -33,9 +33,11 @@ This read me has two goals:
 ### Enabling Github Pages
 
 1. Under the repository name click **Settings**
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/6.png)
 2. On the left-side menu, find and select the _Pages_ option
 3. Under _Build and deployment_ select "Deploy from branch" as your source.
 4. Select "main" as the branch to deploy from, and "/docs" as the folder to build from.
+![](https://github.com/NateG3040/NateG3040.github.io/blob/main/public/7.PNG)
 5. Your site will now be hosted at "https://username.github.io/"
 
 ### Clone your repo to VSCode
