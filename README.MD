@@ -95,16 +95,19 @@ github_username:
 5. Click the new "Sync Changes" button that replaces the commit button
 6. When prompted with "THis will push/pull commits" to your main branch, select "ok"
 7. Your changes are now pushed to your repo and will reflect on your website withing 10 seconds to 2 minutes.
-
-## FAQ
-
-- my page name is showing up on home page
-- I am receiving the error *"Jekyll: Command not found"* when running *"Jekyll new /doc"*
-   - This is due to your terminal not knowing the jekyll command. If you have not already installed jekyll, please do so by following [this guide](https://jekyllrb.com/docs/installation/). 
-   - If you have already installed Jekyll, try restarting your VSCode. 
    
 ## More Resources 
 1. [Markdown Tutorial](https://www.markdownguide.org/getting-started/)
+2. [Andrew Etter's - Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+## Authors and Acknowledgments
+
+## FAQ
+
+- Why is Markdown better than a word processor?
+- I am receiving the error *"Jekyll: Command not found"* when running *"Jekyll new /doc"*
+   - This is due to your terminal not knowing the jekyll command. If you have not already installed jekyll, please do so by following [this guide](https://jekyllrb.com/docs/installation/). 
+   - If you have already installed Jekyll, try restarting your VSCode. 
 
 ## Notes (to remove)
 
