@@ -67,6 +67,7 @@ Since we want this to be a single page website, there is no need to setup additi
 ---
 layout: default
 ---
+//Your MD resume content here 
 ```
 
 3. Delete the auto generated "pages" folder and its content
@@ -74,10 +75,10 @@ layout: default
 5. Open the \_config.yml file and edit the contents of
 
 ```
-title:
-email:
-description:
-github_username:
+title: //title for you page 
+email: //Email to display 
+description: //Description for bottom right of site 
+github_username: //Github username to display 
 ```
 
 6. Delete the line containing twitter name unless you want to link your twitter
