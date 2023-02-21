@@ -108,10 +108,11 @@ github_username: //Github username to display
 ## More Resources 
 1. [Markdown Tutorial](https://www.markdownguide.org/getting-started/)
 2. [Andrew Etter's - Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-3. One other resource 
+3. [How to write a good resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
 
 ## Authors and Acknowledgments
-
+1. Andrew Etter - Modern Technical Writing 
+2. Github Documentation - Source of photos in README - [Link](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 ## FAQ
 
 - Why is Markdown better than a word processor?
