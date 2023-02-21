@@ -86,6 +86,7 @@ email: //Email to display
 description: //Description for bottom right of site 
 github_username: //Github username to display 
 ```
+>Note: I would recommend deleting the contents of description. This follows Etter's concept of only writing necessary information and avoiding bloat. Your resume should speak for itself, the contents of a description unless vital, will likely be redundant and uneccesary. 
 
 6. Delete the line containing twitter name unless you want to link your twitter
 7. Do not adjust the URL or baseURL options
